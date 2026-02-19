@@ -1,6 +1,7 @@
 # Learning Frontend Repository
-**This repository is for learning Tailwind ,Shadcn or other libraries**
+
+**This repository is for learning Tailwind, Shadcn or other libraries**
 
 - Here we learn concepts
-- Make pratice projects
-- Repository serve as Notes
+- Make practice projects
+- This Repository serve as Notes
